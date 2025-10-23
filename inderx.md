@@ -10,7 +10,7 @@
 
 ### 🧩 **Unidad 1 — Fundamentos de la Programación**
 📘 Introducción a los conceptos básicos de la programación, variables, pseudocodigos y diagramas de flujo.
-- [Unidad 1: Fundamento](unidades/Unidad1.md)
+- [Unidad 1: Fundamento](unidad1.md)
 ---
 
 ### ⚙️ **Unidad 2 — Algoritmos y Estructuras**
