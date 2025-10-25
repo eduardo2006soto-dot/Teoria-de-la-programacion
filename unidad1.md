@@ -1,4 +1,4 @@
-⚙️ Programación en PSeInt: Lógica y Algoritmos desde Cero
+⚙️ Ejemplos de algoritmos con estructuras lineales/secuenciales.
 ---
 Algoritmo Sueldo 💵
 	
@@ -62,6 +62,15 @@ Cambio de un producto 🛍️
 	Escribir "Su cambio es", total;	
 	FinAlgoritmo
 ---
-
-
-
+Algoritmo Porcentaje de H y M
+	
+	Definir a, b, total1, total2 Como Real
+	Escribir "Escribir cantidad de mujeres"
+	Leer a 
+	Escribir "Escribir cantidad de hombres"
+	Leer b 
+	total1 = (a * 100) / (a + b)
+	total2  = (b * 100) / (a + b)
+	Escribir "El total de mujeres es", total1
+	Escribir "El total de hombres es", total2
+	FinAlgoritmo
