@@ -10,8 +10,7 @@
 
 ---
 
-## 🧩 Unidad 1 — Fundamentos de la Programación
-📘 Introducción a los conceptos básicos de la programación: variables, pseudocódigos y diagramas de flujo.
+## 🧩 Unidad 1 Fundamentos de la Programación
 
 ### 📌 Contenidos de la Unidad
 
