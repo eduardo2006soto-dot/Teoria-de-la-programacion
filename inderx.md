@@ -39,8 +39,8 @@
 
 ---
 
-### [🧩 Programación por Bloques](bloques.md)  
-> 🪄 Descubre la **programación visual** utilizando bloques que representan instrucciones, una forma intuitiva y divertida de aprender a programar.
+### [💾 Instalación de Lenguajes de Programación](lenguajes.md)  
+> ⚙️ Aprende a **instalar y configurar** distintos **lenguajes de programación**, preparando tu entorno de desarrollo paso a paso para comenzar a crear tus propios programas.
 
 ---
 
