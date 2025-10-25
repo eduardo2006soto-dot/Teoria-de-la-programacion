@@ -12,9 +12,17 @@
 
 ### 🧩 **Unidad 1 — Fundamentos de la Programación**
 📘 Introducción a los conceptos básicos de la programación, variables, pseudocodigos y diagramas de flujo.
-- [👨‍💻 Algoritmos, pseucodigos y diagramas de flujo](pseint.md)
-- [📥 Instalación de lenguaje de programación](lenguajes.md)
-- [📥 Acercamiento a los algoritmos con estructuras secuenciales](acercamiento.md)
+-## 📚 Contenido del Proyecto
+
+### [👨‍💻 Algoritmos, pseudocódigos y diagramas de flujo](pseint.md)  
+> En este apartado se explica cómo se representan los algoritmos mediante pseudocódigos y diagramas de flujo, facilitando la comprensión lógica de los programas.
+
+### [📥 Instalación de lenguaje de programación](lenguajes.md)  
+> Aquí aprenderás a instalar y configurar un lenguaje de programación desde cero, paso a paso, para preparar tu entorno de desarrollo.
+
+### [📥 Acercamiento a los algoritmos con estructuras secuenciales](acercamiento.md)  
+> Este módulo introduce los conceptos básicos de las estructuras secuenciales, donde las instrucciones se ejecutan en un orden determinado.
+
 ---
 
 ### ⚙️ **Unidad 2 — Algoritmos y Estructuras**
