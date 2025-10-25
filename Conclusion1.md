@@ -7,3 +7,4 @@ Primero se debe analizar bien el enunciado, luego diseñar un algoritmo paso a p
 Solo después de tener una solución clara se pasa a la codificación. En el caso de C, esto implica declarar variables, usar librerías como stdio.h
 y compilar con gcc para ver los resultados. Las pruebas de escritorio son clave para encontrar y corregir errores antes de finalizar.
 
+[🏠 Volver a la página principal](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/inderx.md)
