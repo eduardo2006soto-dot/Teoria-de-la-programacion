@@ -13,6 +13,7 @@
 ### 🧩 **Unidad 1 — Fundamentos de la Programación**
 📘 Introducción a los conceptos básicos de la programación, variables, pseudocodigos y diagramas de flujo.
 - [👨‍💻 Algoritmos, pseucodigos y diagramas de flujo](pseint.md)
+- [📥 Instalación de lenguaje de programación](lenguajes.md)
 ---
 
 ### ⚙️ **Unidad 2 — Algoritmos y Estructuras**
