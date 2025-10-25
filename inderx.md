@@ -12,22 +12,45 @@
 
 ### 🧩 **Unidad 1 — Fundamentos de la Programación**
 📘 Introducción a los conceptos básicos de la programación, variables, pseudocodigos y diagramas de flujo.
--## 📚 Contenido del Proyecto
+###  Contenidos de la Unidad
 
+---
 
+### 🔹 **1. Algoritmos, Pseudocódigo y Diagramas de Flujo**  
+💡 Comprende cómo se representan los procesos lógicos mediante **pseudocódigos** y **diagramas de flujo**, facilitando la comprensión del funcionamiento de un programa.
 
+---
+
+### 🔹 **2. Programación por Bloques**  
+🧩 Aprende a crear programas de manera visual, utilizando **bloques gráficos** que representan instrucciones, ideal para principiantes en la programación.
+
+---
+
+### 🔹 **3. Ejemplos de Algoritmos con Estructuras Lineales/Secuenciales**  
+⚙️ Analiza y desarrolla **algoritmos secuenciales**, donde las instrucciones se ejecutan una tras otra, siguiendo un flujo lógico claro y ordenado.
+
+---
 
 ### Tares entregadas
 ---
 
-### [👨‍💻 Herramientas de algoritmos, pseudocódigos y diagramas de flujo](pseint.md)  
-> En este apartado se explica cómo se representan los algoritmos mediante pseudocódigos y diagramas de flujo, facilitando la comprensión lógica de los programas.
+## 📘 Contenidos de la Unidad
 
-### [📥 Instalación de lenguaje de programación](lenguajes.md)  
-> Aquí aprenderás a instalar y configurar un lenguaje de programación desde cero, paso a paso, para preparar tu entorno de desarrollo.
+### [👨‍💻 Algoritmos, Pseudocódigos y Diagramas de Flujo](pseint.md)  
+> 💡 Aprende cómo representar procesos mediante **pseudocódigos** y **diagramas de flujo** para visualizar la lógica detrás de un programa.
 
-### [🛠️ Acercamiento a los algoritmos con estructuras secuenciales](acercamiento.md)  
-> Este módulo introduce los conceptos básicos de las estructuras secuenciales, donde las instrucciones se ejecutan en un orden determinado.
+---
+
+### [🧩 Programación por Bloques](bloques.md)  
+> 🪄 Descubre la **programación visual** utilizando bloques que representan instrucciones, una forma intuitiva y divertida de aprender a programar.
+
+---
+
+### [⚙️ Ejemplos de Algoritmos con Estructuras Secuenciales](acercamiento.md)  
+> 🚀 Explora ejemplos prácticos de **algoritmos secuenciales**, donde las instrucciones siguen un orden lógico y lineal para resolver problemas paso a paso.
+
+---
+
 
 ---
 
