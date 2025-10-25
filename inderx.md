@@ -13,6 +13,8 @@
 ### 🧩 **Unidad 1 — Fundamentos de la Programación**
 📘 Introducción a los conceptos básicos de la programación, variables, pseudocodigos y diagramas de flujo.
 -## 📚 Contenido del Proyecto
+### Tares entregadas
+---
 
 ### [👨‍💻 Algoritmos, pseudocódigos y diagramas de flujo](pseint.md)  
 > En este apartado se explica cómo se representan los algoritmos mediante pseudocódigos y diagramas de flujo, facilitando la comprensión lógica de los programas.
