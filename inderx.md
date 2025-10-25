@@ -31,7 +31,8 @@
 
 ---
 
-### ⚠️ Principales dificultades en la aplicación de los contenidos
+### [⚠️ Principales dificultades](difi.md)  
+
 
 ---
 
