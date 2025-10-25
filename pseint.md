@@ -74,3 +74,4 @@ Algoritmo Porcentaje de H y M
 	Escribir "El total de mujeres es", total1
 	Escribir "El total de hombres es", total2
 	FinAlgoritmo
+	= [🏠 Volver a la página principal](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/inderx.md)
