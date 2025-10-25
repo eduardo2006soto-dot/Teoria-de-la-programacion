@@ -6,7 +6,7 @@
 
 > _Desarrollo de conocimientos, habilidades y reflexiones a lo largo del primer ciclo de programación._
 
-- [🪪 Datos Personales](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/datos.md)
+- [🪪 Datos Informativos](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/datos.md)
 
 ---
 
