@@ -1,4 +1,5 @@
 ⚙️ Ejemplos de algoritmos con estructuras lineales/secuenciales.
+Pseint.
 ---
 Algoritmo Sueldo 💵
 	
