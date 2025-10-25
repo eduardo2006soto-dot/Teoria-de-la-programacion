@@ -1,8 +1,8 @@
-# 💻 **Proyecto de Programación**
+# 💻 Proyecto de Programación
 
 ---
 
-## 📂 **Portafolio Digital de Aprendizaje**
+## 📂 Portafolio Digital de Aprendizaje
 
 > _Desarrollo de conocimientos, habilidades y reflexiones a lo largo del primer ciclo de programación._
 
@@ -10,38 +10,38 @@
 
 ---
 
-### 🧩 **Unidad 1 — Fundamentos de la Programación**
-📘 Introducción a los conceptos básicos de la programación, variables, pseudocodigos y diagramas de flujo.
-###  Contenidos de la Unidad
+## 🧩 Unidad 1 — Fundamentos de la Programación
+📘 Introducción a los conceptos básicos de la programación: variables, pseudocódigos y diagramas de flujo.
+
+### 📌 Contenidos de la Unidad
 
 ---
 
-### 🔹 **1. Algoritmos, Pseudocódigo y Diagramas de Flujo**  
+### 🔹 1. Algoritmos, Pseudocódigo y Diagramas de Flujo  
 💡 Comprende cómo se representan los procesos lógicos mediante **pseudocódigos** y **diagramas de flujo**, facilitando la comprensión del funcionamiento de un programa.
 
 ---
 
-### 🔹 **2. Programación por Bloques**  
-🧩 Aprende a crear programas de manera visual, utilizando **bloques gráficos** que representan instrucciones, ideal para principiantes en la programación.
+### 🔹 2. Programación por Bloques  
+🧩 Aprende a crear programas de manera visual, utilizando **bloques gráficos** que representan instrucciones. Ideal para principiantes en la programación.
 
 ---
 
-### 🔹 **3. Ejemplos de Algoritmos con Estructuras Lineales/Secuenciales**  
-⚙️ Analiza y desarrolla **algoritmos secuenciales**, donde las instrucciones se ejecutan una tras otra, siguiendo un flujo lógico claro y ordenado.
+### 🔹 3. Ejemplos de Algoritmos con Estructuras Lineales/Secuenciales  
+⚙️ Analiza y desarrolla **algoritmos secuenciales**, donde las instrucciones se ejecutan una tras otra siguiendo un flujo lógico claro y ordenado.
 
 ---
 
 ### [⚠️ Principales dificultades](difi.md)  
 
-
 ---
-
 
 ### [💭 Reflexión crítica de la Unidad 1](refle.md)  
 
 ---
 
-### Tares entregadas
+### ✅ Tareas entregadas
+
 ---
 
 ### [👨‍💻 Algoritmos, Pseudocódigos y Diagramas de Flujo](pseint.md)  
@@ -59,24 +59,23 @@
 
 ---
 
-
----
-
-### ⚙️ **Unidad 2 — Algoritmos y Estructuras**
+## ⚙️ Unidad 2 — Algoritmos y Estructuras
 🧮 ///.
 
 ---
 
-### 🧠 **Unidad 3 — Lógica y Desarrollo de Proyectos**
+## 🧠 Unidad 3 — Lógica y Desarrollo de Proyectos
 💡 ?????.
 
 ---
 
-### 🧾 **Conclusiones**
+## 🧾 Conclusiones
 🔍 Reflexión sobre el proceso de aprendizaje y los logros alcanzados en el desarrollo de las tres unidades.
-- [Conclusión ](Conclusion1.md)
+
+- [Conclusión](Conclusion1.md)
+
 ---
 
-### 📚 Bibliografía
+## 📚 Bibliografía
 
 ---
