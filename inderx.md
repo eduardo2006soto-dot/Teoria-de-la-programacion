@@ -34,8 +34,6 @@
 ### Tares entregadas
 ---
 
-## 📘 Contenidos de la Unidad
-
 ### [👨‍💻 Algoritmos, Pseudocódigos y Diagramas de Flujo](pseint.md)  
 > 💡 Aprende cómo representar procesos mediante **pseudocódigos** y **diagramas de flujo** para visualizar la lógica detrás de un programa.
 
@@ -66,7 +64,7 @@
 
 ### 🧾 **Conclusiones**
 🔍 Reflexión sobre el proceso de aprendizaje y los logros alcanzados en el desarrollo de las tres unidades.
-- [📥 Acercamiento a los algoritmos con estructuras secuenciales](Conclusion1.md)
+- [Conclusion ](Conclusion1.md)
 ---
 
 ### 📚 Bibliografía
