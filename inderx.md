@@ -29,6 +29,7 @@
 
 ### 🔹 3. Ejemplos de Algoritmos con Estructuras Lineales/Secuenciales  
 ⚙️ Analiza y desarrolla **algoritmos secuenciales**, donde las instrucciones se ejecutan una tras otra siguiendo un flujo lógico claro y ordenado.
+<img width="1850" height="859" alt="image" src="https://github.com/user-attachments/assets/5dd8d4e5-c66a-4732-8320-8eaf6f368e36" />
 
 ---
 
