@@ -28,7 +28,7 @@
 ---
 
 ### 🔹 3. Ejemplos de Algoritmos con Estructuras Lineales/Secuenciales  
-⚙️ Analiza y desarrolla **algoritmos secuenciales**, donde las instrucciones se ejecutan una tras otra siguiendo un flujo lógico claro y ordenado.
+⚙️ Los algoritmos secuenciales se caracterizan por ejecutar instrucciones de manera lineal, siguiendo un orden lógico sin bifurcaciones ni repeticiones. Este tipo de estructura es esencial en la enseñanza inicial de programación, ya que desarrolla la comprensión del flujo de control básico. Ejemplos comunes incluyen el cálculo del promedio, la conversión de unidades y el área de figuras geométricas.
 <img width="1850" height="859" alt="image" src="https://github.com/user-attachments/assets/5dd8d4e5-c66a-4732-8320-8eaf6f368e36" />
 
 ---
