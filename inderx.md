@@ -17,12 +17,13 @@
 ---
 
 ### 🔹 1. Algoritmos, Pseudocódigo y Diagramas de Flujo  
-💡 Comprende cómo se representan los procesos lógicos mediante **pseudocódigos** y **diagramas de flujo**, facilitando la comprensión del funcionamiento de un programa.
+💡 Los algoritmos, pseudocódigos y diagramas de flujo son herramientas fundamentales para el desarrollo del pensamiento lógico y la resolución de problemas computacionales. Los algoritmos permiten estructurar soluciones paso a paso, el pseudocódigo facilita su comprensión sin necesidad de un lenguaje de programación, y los diagramas de flujo representan visualmente la secuencia lógica de acciones. Su uso conjunto mejora la claridad, precisión y eficiencia en la elaboración de programas informáticos.
 
 ---
 
 ### 🔹 2. Programación por Bloques  
-🧩 Aprende a crear programas de manera visual, utilizando **bloques gráficos** que representan instrucciones. Ideal para principiantes en la programación.
+🧩 La programación por bloques facilita la iniciación en el código al permitir el ensamblaje de instrucciones visuales en lugar de escribir sintaxis textual, lo que reduce la carga cognitiva para principiantes. Estudios muestran que los entornos basados en bloques mejoran la motivación, la comprensión de conceptos como secuencias, bucles y condicionales, y fomentan el pensamiento algorítmico en estudiantes novatos.
+<img width="1919" height="711" alt="image" src="https://github.com/user-attachments/assets/7c1d3c87-44e6-4e6f-b07b-e8ceb541d36f" />
 
 ---
 
