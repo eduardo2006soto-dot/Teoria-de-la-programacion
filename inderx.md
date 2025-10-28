@@ -56,7 +56,8 @@
 
 ---
 
-### [⚙️ Ejemplos de Algoritmos con Estructuras Secuenciales](acercamiento.md)  
+### [⚙️ Ejemplos de Algoritmos con Estructuras Secuenciales](https://drive.google.com/drive/folders/1eMlGiVUBDHVCtOjmZQB_R4hBI9ELlcZ3)
+
 > 🚀 Explora ejemplos prácticos de **algoritmos secuenciales**, donde las instrucciones siguen un orden lógico y lineal para resolver problemas paso a paso.
 
 ---
