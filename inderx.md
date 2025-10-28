@@ -51,7 +51,7 @@
 
 ---
 
-### [💾 nstalación de Lenguajes de Programación](https://drive.google.com/file/d/1w-tCCh9ajlAPNpUi0yuWYXKwM3JhhbpX/view?usp=drive_link)
+### [💾 Instalación de Lenguajes de Programación](https://drive.google.com/file/d/1w-tCCh9ajlAPNpUi0yuWYXKwM3JhhbpX/view?usp=drive_link)
 
 > ⚙️ Aprende a **instalar y configurar** distintos **lenguajes de programación**, preparando tu entorno de desarrollo paso a paso para comenzar a crear tus propios programas.
 
