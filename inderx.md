@@ -61,6 +61,10 @@
 
 ---
 
+🧩 [Del diseño del algoritmo secuencial a la construcción del programa](https://drive.google.com/drive/folders/1eMlGiVUBDHVCtOjmZQB_R4hBI9ELlcZ3)
+
+---
+
 ## ⚙️ Unidad 2 — Algoritmos y Estructuras
 🧮 ///.
 
