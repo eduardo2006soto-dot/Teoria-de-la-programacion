@@ -63,7 +63,7 @@
 
 ---
 
-### [🧩 Del diseño del algoritmo secuencial a la construcción del programa](https://drive.google.com/drive/folders/1eMlGiVUBDHVCtOjmZQB_R4hBI9ELlcZ3)
+### [🧩 Del diseño del algoritmo secuencial a la construcción del programa](https://drive.google.com/file/d/1WsBtT4ZmZ25wRFXb1dbXv-BWMV7hBf7_/view?usp=drive_link)
 
 ---
 
