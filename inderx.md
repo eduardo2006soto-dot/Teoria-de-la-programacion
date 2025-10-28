@@ -60,7 +60,7 @@ Su uso conjunto mejora la **claridad, precisión y eficiencia** en la elaboraci�
 
 ---
 
-### 📌 Recursos y Ejemplos
+### 📌 Tareas entregadas
 
 - [👨‍💻 Algoritmos, Pseudocódigos y Diagramas de Flujo](pseint.md)  
 > Aprende a representar procesos mediante **pseudocódigos** y **diagramas de flujo** para visualizar la lógica detrás de un programa.
