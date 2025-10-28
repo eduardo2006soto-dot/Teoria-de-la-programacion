@@ -80,4 +80,4 @@
 
 ---
 
-## 🤖 Declaración de uso de Inteligencia Artificial
+## [🤖 Declaración de uso de inteligencia artificial](ia.md)
