@@ -1,10 +1,14 @@
-# Unidad 1
+# 🧠 Unidad 1 — Declaración de uso de IA
 
 ---
-- Declaro que durante la realización de este proyecto utilicé la herramienta ChatGPT (modelo GPT-5) para ayudarme en varias tareas. En especial, me apoyó en la creación y organización de los códigos para GitHub, dándome ejemplos y sugerencias que me ayudaron a ordenar mejor los archivos y las funciones.
 
-- También me ayudó a que las ideas quedaran más claras y organizadas, sugiriendo formas de presentar la información de manera más comprensible y fácil de seguir.
+- 🤖 **Uso de ChatGPT (modelo GPT-5):**  
+  Durante la realización de este proyecto utilicé la herramienta ChatGPT para ayudarme en varias tareas, especialmente en la **creación y organización de los códigos para GitHub**, proporcionando ejemplos y sugerencias que facilitaron ordenar mejor los archivos y funciones.
 
-- Todo lo que se generó con la IA fue revisado y adaptado por mí, para asegurar que el proyecto refleje mi trabajo y cumpla con los objetivos de manera correcta.
+- ✨ **Claridad y organización de ideas:**  
+  La IA me apoyó en que las ideas quedaran más claras y estructuradas, sugiriendo formas de presentar la información de manera más comprensible y fácil de seguir.
+
+- ✅ **Revisión y adaptación:**  
+  Todo lo generado con la IA fue **revisado y adaptado por mí**, asegurando que el proyecto refleje mi trabajo y cumpla correctamente con los objetivos planteados.
 
 [🏠 Volver a la página principal](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/inderx.md)
