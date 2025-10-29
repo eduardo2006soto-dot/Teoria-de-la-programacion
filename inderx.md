@@ -12,11 +12,7 @@
 - [🪪 Datos Informativos](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/datos.md)
 - [📘 Unidad 1](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/unidad.md)
 - [✅ Tareas entregadas1](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/tareas.md)
-  
----
-
-### ✅ Tareas entregada
-
+- 
 ---
 
 ## ⚙️ Unidad 2 — Algoritmos y Estructuras
