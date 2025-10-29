@@ -23,7 +23,7 @@ Su uso conjunto mejora la **claridad, precisión y eficiencia** en la elaboraci�
 ⚙️ Los **algoritmos secuenciales** ejecutan instrucciones de manera lineal, sin bifurcaciones ni repeticiones, ideales para quienes comienzan a programar.  
 
 **Ejemplos comunes:** cálculo de promedios, conversión de unidades y áreas de figuras geométricas.
-
+- [Ejercicio 1](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/ejemplo2.md)
 ---
 
 ### ⚠️ Principales dificultades
