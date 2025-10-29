@@ -8,17 +8,15 @@ Realice el algoritmo para determinar cuánto dinero ahorra una persona en un añ
 - Se las define como reales porque vamos a utilizar un porcentaje ya que no sabemos si la respuesta va ser entero o real, ademas no sabemos el sueldo de la persona.
 - Para determinar nosotros un porcentaje lo debemos dividir para 100
 - Luego de saaber todo esto realizamos la operación designada.
-
 <img width="763" height="369" alt="Captura de pantalla 2025-10-29 085245" src="https://github.com/user-attachments/assets/48720ed5-1452-431f-82f1-5a089e8a6b97" />
 
 # Imagen 2: Sueldo en diagrama de flujo.
+
 | 🔹 Elemento | 🧮 Descripción |
 |--------------|--------------------------|
 | **Entrada** | Sueldo, ahorroA. |
 | **Proceso** | sueldo * 0.15 * 12 |
 | **Salida** | Es el total del ahorroA. |
-
-
 
 <img width="968" height="866" alt="image" src="https://github.com/user-attachments/assets/3a23b425-110d-46fe-b20d-f61e6cac4d1b" />
 
