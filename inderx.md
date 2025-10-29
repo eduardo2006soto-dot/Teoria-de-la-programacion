@@ -14,16 +14,6 @@
 
 ---
 
-### ⚠️ Principales dificultades
-[Ver archivo](difi.md)
-
----
-
-### 💭 Reflexión crítica de la Unidad 1
-[Ver archivo](refle.md)
-
----
-
 ### ✅ Tareas entregadas
 
 ---
