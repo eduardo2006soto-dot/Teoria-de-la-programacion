@@ -20,7 +20,7 @@ Realice el algoritmo para determinar cuánto dinero ahorra una persona en un añ
 
 <img width="968" height="866" alt="image" src="https://github.com/user-attachments/assets/3a23b425-110d-46fe-b20d-f61e6cac4d1b" />
 
-# Imagen 2: Sueldo anual en C.
+# Imagen 3: Sueldo anual en C.
 - Primero se debe ubicar una libreria "<stdio.h>.
 - Luego ubicamos el inicio de codigo el cual va permiir que el codigo funcione "Main".
 - Definimos nuestras variables.
