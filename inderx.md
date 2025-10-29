@@ -4,15 +4,15 @@
 
 ## 📂 Portafolio Digital de Aprendizaje
 > _Desarrollo de conocimientos, habilidades y reflexiones a lo largo del primer ciclo de programación._
-
+- [🪪 Datos Informativos](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/datos.md)
+  
 ---
 
 ## 🧩 Unidad 1 — Fundamentos de la Programación
 
-- [🪪 Datos Informativos](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/datos.md)
-- [📘 Unidad 1](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/unidad.md)
+- [📘 Contenidos de la Unidad](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/unidad.md)
 - [✅ Tareas entregadas1](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/tareas.md)
-- 
+
 ---
 
 ## ⚙️ Unidad 2 — Algoritmos y Estructuras
