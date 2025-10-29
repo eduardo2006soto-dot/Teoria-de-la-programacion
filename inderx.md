@@ -10,6 +10,7 @@
 ## 🧩 Unidad 1 — Fundamentos de la Programación
 
 - [🪪 Datos Informativos](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/datos.md)
+- [📘 Unidad 1](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/unidad.md)
 
 ---
 
