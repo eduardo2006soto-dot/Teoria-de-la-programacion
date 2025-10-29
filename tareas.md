@@ -16,6 +16,6 @@
 
 ---
 
-[🏠 Volver a la página principal](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/inderx.md)
+[Volver a la página](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/tareas.md)
 
 
