@@ -15,7 +15,7 @@ Su uso conjunto mejora la **claridad, precisión y eficiencia** en la elaboraci�
 
 ### 🔹 2. Programación por Bloques
 🧩 La **programación por bloques** permite ensamblar instrucciones visuales en lugar de escribir código textual, reduciendo la carga cognitiva en principiantes.  
-✅ Beneficios:  
+
 - Mejora la motivación y comprensión de conceptos.  
 - Facilita el aprendizaje de secuencias, bucles y condicionales.  
 - Fomenta el pensamiento algorítmico inicial.
