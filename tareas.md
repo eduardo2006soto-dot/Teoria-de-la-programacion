@@ -14,3 +14,8 @@
 - [🧩 Del diseño del algoritmo secuencial a la construcción del programa](https://drive.google.com/file/d/1Jgul9ha_nW0nr3998cgSL88apyoPR0yH/view?usp=drive_link)  
 > Aprende a pasar del **diseño conceptual del algoritmo** a su **implementación práctica** en un programa funcional.
 
+---
+
+[🏠 Volver a la página principal](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/inderx.md)
+
+
