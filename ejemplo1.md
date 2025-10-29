@@ -32,5 +32,5 @@ Realice el algoritmo para determinar cuánto dinero ahorra una persona en un añ
 <img width="1012" height="1003" alt="image" src="https://github.com/user-attachments/assets/ecb941ee-a6b2-4274-9fe2-315c956a5d28" />
 
 
-[🏠 Volver a la página principal](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/inderx.md)
+[Volver a la página](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/unidad.md)
 
