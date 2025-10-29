@@ -9,5 +9,8 @@
 - Aplicamos la libreria correspondiente.
 - Definimos nuestras variables.
 - Aplicamos las formulas que necesitamos
-- 
+- Luego copilamos este codigo ya que el lenguaje C es un copilador.
+- Para nosotros copilar el codigo es: gcc anual.c ( El c es necesario para poder copilar) -o anual
+- Luego debemos ejecutar el codigo con el nombre del archivo agregando "Exe": ./anual.exe y tendremos nuestro codigo hecho
+
 <img width="1919" height="1101" alt="Ejemplo 2" src="https://github.com/user-attachments/assets/e400cb3d-6554-479f-adad-a281866a55bd" />
