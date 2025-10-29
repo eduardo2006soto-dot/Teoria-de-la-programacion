@@ -11,7 +11,7 @@
 ## 🧩 Unidad 1 — Fundamentos de la Programación
 
 - [📘 Contenidos de la Unidad](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/unidad.md)
-- [✅ Tareas entregadas1](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/tareas.md)
+- [✅ Tareas entregadas](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/tareas.md)
 
 ---
 
