@@ -35,4 +35,4 @@ Su uso conjunto mejora la **claridad, precisión y eficiencia** en la elaboraci�
 [Ver archivo](refle.md)
 
 ---
-[🏠 Volver a la página ](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/unidad.md)
+[🏠 Volver a la página principal ](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/inderx.md)
