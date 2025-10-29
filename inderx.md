@@ -5,6 +5,10 @@
 ## 📂 Portafolio Digital de Aprendizaje
 > _Desarrollo de conocimientos, habilidades y reflexiones a lo largo del primer ciclo de programación._
 
+---
+
+## 🧩 Unidad 1 — Fundamentos de la Programación
+
 - [🪪 Datos Informativos](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/datos.md)
 
 ---
