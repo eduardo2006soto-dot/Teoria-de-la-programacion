@@ -16,9 +16,8 @@ Su uso conjunto mejora la **claridad, precisión y eficiencia** en la elaboraci�
 - Mejora la motivación y comprensión de conceptos.  
 - Facilita el aprendizaje de secuencias, bucles y condicionales.  
 - Fomenta el pensamiento algorítmico inicial.
-  
-- [Ejercicio de bloques](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/bloque.md)
-
+# Imagen 1: Ejercicio en Pilas bloques online
+<img width="1919" height="711" alt="Programación por bloques" src="https://github.com/user-attachments/assets/7c1d3c87-44e6-4e6f-b07b-e8ceb541d36f" />
 ---
 
 ### 🔹 3. Ejemplos de Algoritmos con Estructuras Lineales/Secuenciales
