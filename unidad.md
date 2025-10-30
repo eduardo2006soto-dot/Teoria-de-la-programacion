@@ -1,86 +1,116 @@
 ### 🔹 1. Algoritmos, Pseudocódigo y Diagramas de Flujo
+
 💡 Los **algoritmos**, **pseudocódigos** y **diagramas de flujo** son esenciales para el desarrollo del pensamiento lógico y la resolución de problemas computacionales.  
+
 - Los algoritmos permiten estructurar soluciones paso a paso.  
 - El pseudocódigo facilita su comprensión sin depender de un lenguaje de programación.  
 - Los diagramas de flujo representan visualmente la secuencia lógica de acciones.  
 
 Su uso conjunto mejora la **claridad, precisión y eficiencia** en la elaboración de programas.
-## Ejercicio 1 que se realizo
-Realice el algoritmo para determinar cuánto dinero ahorra una persona en un año si considera que cada semana ahorra 15% de su sueldo (considere cuatro semanas por mes y que no cambia el sueldo).
 
 ---
 
-# Imagen 1: Sueldo anual pseint.
-- Primero se necesita definir sus variables las cuales llegaremos a utilizar a lo largo del programa.
-- Se las define como reales porque vamos a utilizar un porcentaje ya que no sabemos si la respuesta va ser entero o real, ademas no sabemos el sueldo de la persona.
-- Para determinar nosotros un porcentaje lo debemos dividir para 100
-- Luego de saaber todo esto realizamos la operación designada.
+## 🧮 Ejercicio 1 realizado
+
+**Enunciado:**  
+Realice el algoritmo para determinar cuánto dinero ahorra una persona en un año si considera que cada semana ahorra el 15% de su sueldo (considere cuatro semanas por mes y que no cambia el sueldo).
+
+---
+
+### 🖼️ Imagen 1: Sueldo anual en PSeInt
+
+- Primero se necesita definir las variables que se utilizarán a lo largo del programa.  
+- Se las define como reales porque se usa un porcentaje y no se sabe si el resultado será entero o decimal, además de desconocer el sueldo de la persona.  
+- Para determinar un porcentaje se lo debe dividir para 100.  
+- Luego de saber todo esto, realizamos la operación designada.  
+
 <img width="763" height="369" alt="Captura de pantalla 2025-10-29 085245" src="https://github.com/user-attachments/assets/48720ed5-1452-431f-82f1-5a089e8a6b97" />
 
-# Imagen 2: Sueldo en diagrama de flujo.
+---
 
-| 🔹 Elemento | 🧮 Descripción |
-|--------------|--------------------------|
-| **Entrada** | Sueldo, ahorroA. |
+### 🖼️ Imagen 2: Sueldo en diagrama de flujo
+
+| 🔹 **Elemento** | 🧩 **Descripción** |
+|------------------|--------------------|
+| **Entrada** | Sueldo, ahorroA |
 | **Proceso** | sueldo * 0.15 * 12 |
-| **Salida** | Es el total del ahorroA. |
+| **Salida** | Total del ahorroA |
 
 <img width="968" height="866" alt="image" src="https://github.com/user-attachments/assets/3a23b425-110d-46fe-b20d-f61e6cac4d1b" />
 
-# Imagen 3: Sueldo anual en C.
-- Primero se debe ubicar una libreria "<stdio.h>.
-- Luego ubicamos el inicio de codigo "int main(){}"
-- Definimos nuestras variables.
-- Luego vamos ubicando nuestras variables con sus tipos de datos.
-- Realizamos la operación correspondiente
-- Luego del resultado, necesitamos copilar este codigo ya que el lenguaje C es un copilador.
-- Para nosotros copilar el codigo es: gcc anual.c ( El c es necesario para poder copilar) -o anual
-- Luego debemos ejecutar el codigo con el nombre del archivo agregando "Exe": ./anual.exe y tendremos nuestro codigo hecho
+---
+
+### 🖼️ Imagen 3: Sueldo anual en C
+
+- Primero se debe incluir la librería `<stdio.h>`.  
+- Luego ubicamos el inicio del código `int main(){}`.  
+- Definimos nuestras variables.  
+- Asignamos los tipos de datos correspondientes.  
+- Realizamos la operación indicada.  
+- Finalmente, compilamos el código, ya que el lenguaje C requiere un compilador.  
+- Para compilar el código se usa: `gcc anual.c -o anual`  
+- Luego se ejecuta el programa con: `./anual.exe`  
+
 <img width="1012" height="1003" alt="image" src="https://github.com/user-attachments/assets/ecb941ee-a6b2-4274-9fe2-315c956a5d28" />
 
 ---
 
 ### 🔹 2. Programación por Bloques
+
 🧩 La **programación por bloques** permite ensamblar instrucciones visuales en lugar de escribir código textual, reduciendo la carga cognitiva en principiantes.  
 
 - Mejora la motivación y comprensión de conceptos.  
 - Facilita el aprendizaje de secuencias, bucles y condicionales.  
 - Fomenta el pensamiento algorítmico inicial.
-# Imagen 1: Ejercicio en Pilas bloques online
-- Aqui podemos desarrollar nuestra logica.
-- Aprendemos como llegan a funcionar los distintos tipos de datos
-- Para mejorar toda nuestra logica fue en https://pilasbloques.program.ar/online/#/
+
+---
+
+### 🖼️ Imagen 1: Ejercicio en Pilas Bloques Online
+
+- Aquí podemos desarrollar nuestra lógica.  
+- Aprendemos cómo funcionan los distintos tipos de datos.  
+- Para mejorar la lógica, se trabajó en: [https://pilasbloques.program.ar/online/#/](https://pilasbloques.program.ar/online/#/)  
+
 <img width="1919" height="711" alt="Programación por bloques" src="https://github.com/user-attachments/assets/7c1d3c87-44e6-4e6f-b07b-e8ceb541d36f" />
 
-----
+---
 
-### 🔹 3. Ejemplos de Algoritmos con Estructuras Lineales/Secuenciales
-⚙️ Los **algoritmos secuenciales** ejecutan instrucciones de manera lineal, sin bifurcaciones ni repeticiones, ideales para quienes comienzan a programar.  
+### 🔹 3. Ejemplos de Algoritmos con Estructuras Lineales / Secuenciales
+
+⚙️ Los **algoritmos secuenciales** ejecutan instrucciones de manera lineal, sin bifurcaciones ni repeticiones. Son ideales para quienes inician en la programación.  
 
 **Ejemplos comunes:** cálculo de promedios, conversión de unidades y áreas de figuras geométricas.
-## Imagen 5: Superficie de un triangulo en pseint.
-- Definimos las variables que vamos utiilizar.
-- Pedimos  los datos necesarios.
-- Aplicamos las formulas que necesitamos.
-- Finalmente vereficamos si el codigo es correcto.
+
+---
+
+### 🖼️ Imagen 5: Superficie de un triángulo en PSeInt
+
+- Definimos las variables que se van a utilizar.  
+- Solicitamos los datos necesarios.  
+- Aplicamos las fórmulas requeridas.  
+- Finalmente, verificamos si el código es correcto.  
+
 <img width="1850" height="859" alt="Ejemplo 1" src="https://github.com/user-attachments/assets/5dd8d4e5-c66a-4732-8320-8eaf6f368e36" />
 
-## Imagen 6: Superficie de un triangulo en C.
-- Aplicamos la libreria correspondiente.
-- Definimos nuestras variables.
-- Aplicamos las formulas que necesitamos
-- Luego copilamos este codigo ya que el lenguaje C es un copilador.
-- Para nosotros copilar el codigo es: gcc anual.c ( El c es necesario para poder copilar) -o anual
-- Luego debemos ejecutar el codigo con el nombre del archivo agregando "Exe": ./anual.exe y tendremos nuestro codigo hecho
+---
+
+### 🖼️ Imagen 6: Superficie de un triángulo en C
+
+- Aplicamos la librería correspondiente.  
+- Definimos las variables necesarias.  
+- Aplicamos las fórmulas requeridas.  
+- Luego compilamos el código, ya que el lenguaje C requiere un compilador.  
+- Para compilar el código: `gcc anual.c -o anual`  
+- Para ejecutar el código: `./anual.exe`  
 
 <img width="1919" height="1101" alt="Ejemplo 2" src="https://github.com/user-attachments/assets/e400cb3d-6554-479f-adad-a281866a55bd" />
 
 ---
 
-### ⚠️ Principales dificultades
-[Ver archivo](difi.md)
+### ⚠️ Principales Dificultades
 
----
+📄 [Ver archivo → difi.md](difi.md)
+
 
 ### 💭 Reflexión crítica de la Unidad 1
 [Ver archivo](refle.md)
