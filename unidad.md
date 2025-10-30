@@ -7,6 +7,7 @@
 Su uso conjunto mejora la **claridad, precisión y eficiencia** en la elaboración de programas.
 
 - [Ejercicio](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/ejemplo1.md)
+
 ---
 
 ### 🔹 2. Programación por Bloques
