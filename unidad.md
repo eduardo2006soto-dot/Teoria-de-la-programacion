@@ -109,7 +109,7 @@ Realice el algoritmo para determinar cuánto dinero ahorra una persona en un añ
 
 ### ⚠️ Principales Dificultades
 
-📄 [Ver archivo → difi.md](difi.md)
+📄 [Ver archivo ](difi.md)
 
 
 ### 💭 Reflexión crítica de la Unidad 1
