@@ -3,7 +3,7 @@
 
 ---
 
-### 🏛️ **Universidad Nacional de Loja**
+### 🏛️ **Universidad Nacional de Loja — Facultad de Energía, las Industrias y los Recursos Naturales No Renovables**
 🎓 **Carrera:** Ingeniería en Ciencias de la Computación  
 👩‍🏫 **Docente:** Ing. Lissette López  
 👨‍💻 **Estudiante:** Eduardo Soto  
