@@ -47,8 +47,12 @@ Realice el algoritmo para determinar cuánto dinero ahorra una persona en un añ
 - Facilita el aprendizaje de secuencias, bucles y condicionales.  
 - Fomenta el pensamiento algorítmico inicial.
 # Imagen 1: Ejercicio en Pilas bloques online
+- Aqui podemos desarrollar nuestra logica.
+- Aprendemos como llegan a funcionar los distintos tipos de datos
+- Para mejorar toda nuestra logica fue en https://pilasbloques.program.ar/online/#/
 <img width="1919" height="711" alt="Programación por bloques" src="https://github.com/user-attachments/assets/7c1d3c87-44e6-4e6f-b07b-e8ceb541d36f" />
----
+
+----
 
 ### 🔹 3. Ejemplos de Algoritmos con Estructuras Lineales/Secuenciales
 ⚙️ Los **algoritmos secuenciales** ejecutan instrucciones de manera lineal, sin bifurcaciones ni repeticiones, ideales para quienes comienzan a programar.  
