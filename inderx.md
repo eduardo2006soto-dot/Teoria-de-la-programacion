@@ -1,4 +1,4 @@
-# 💻✨ **Proyecto de Programación**
+# 💻 **Proyecto de Programación**
 ## 📘 **Portafolio Digital de Aprendizaje**
 
 ---
