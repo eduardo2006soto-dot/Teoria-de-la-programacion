@@ -1,11 +1,14 @@
-# 💻 Proyecto de Programación
+# 💻✨ **Proyecto de Programación**
+## 📘 **Portafolio Digital de Aprendizaje**
 
 ---
 
-## 📂 Portafolio Digital de Aprendizaje
-> _Desarrollo de conocimientos, habilidades y reflexiones a lo largo del primer ciclo de programación._
-- [🪪 Datos Informativos](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/datos.md)
-  
+### 🏛️ **Universidad Nacional de Loja**
+🎓 **Carrera:** Ingeniería en Ciencias de la Computación  
+👩‍🏫 **Docente:** Ing. Lissette López  
+👨‍💻 **Estudiante:** Eduardo Soto  
+📅 **Año Lectivo:** 2025 – 2026  
+
 ---
 
 ## 🧩 Unidad 1 — Fundamentos de la Programación
