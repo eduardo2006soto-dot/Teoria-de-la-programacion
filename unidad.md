@@ -16,7 +16,8 @@ Su uso conjunto mejora la **claridad, precisión y eficiencia** en la elaboraci�
 - Mejora la motivación y comprensión de conceptos.  
 - Facilita el aprendizaje de secuencias, bucles y condicionales.  
 - Fomenta el pensamiento algorítmico inicial.
-  {Ejercicio de bloques](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/bloque.md)
+  
+- [Ejercicio de bloques](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/bloque.md)
 
 ---
 
