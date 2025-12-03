@@ -15,5 +15,6 @@ C.
 
 ---
 
-## 👉 [Haz clic aquí para ir a la página de *tareas.md*](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/tareas.md)
+[📘 Ver tareas de Teoría de la Programación](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/tareas.md)
+
 
