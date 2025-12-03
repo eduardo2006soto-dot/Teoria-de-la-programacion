@@ -65,7 +65,7 @@ Realice el algoritmo para determinar cuánto dinero ahorra una persona en un añ
 
 ---
 
-### 🖼️ Imagen 1: Ejercicio en Pilas Bloques Online
+### 🖼️ Imagen 4: Ejercicio en Pilas Bloques Online
 
 - Aquí podemos desarrollar nuestra lógica.  
 - Aprendemos cómo funcionan los distintos tipos de datos.  
