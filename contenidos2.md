@@ -25,7 +25,7 @@ El ejercicio consiste en solicitar al usuario un número entero comprendido entr
 # For
 El objetivo del problema es solicitar al usuario un número entero N y mostrar en pantalla todos los números comprendidos entre 1 y N, en orden ascendente. Para resolverlo, se requiere utilizar estructuras repetitivas que permitan ejecutar una acción varias veces sin necesidad de escribir instrucciones repetidas. Este ejercicio permite comparar cómo funcionan los bucles for, while y do…while aplicando la misma tarea, demostrando sus similitudes y diferencias en la construcción de soluciones computacionales.
 
-🔵 Contexto del for
+🔵 Definición del for
 
 - Se utiliza cuando se conoce la cantidad de repeticiones.
 
@@ -38,7 +38,7 @@ El objetivo del problema es solicitar al usuario un número entero N y mostrar e
 
 # While
 
-🟢 Contexto del while
+🟢 Definición del while
 
 - Ejecuta un bloque mientras la condición sea verdadera.
 
@@ -52,7 +52,7 @@ El objetivo del problema es solicitar al usuario un número entero N y mostrar e
 
 # Do..While
 
-🔴 Contexto del do…while
+🔴 Definición del do…while
 
 - Ejecuta el bloque al menos una vez antes de evaluar la condición.
 
