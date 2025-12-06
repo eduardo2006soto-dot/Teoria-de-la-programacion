@@ -61,7 +61,6 @@
 
 ## 🧾 Conclusión
 [Ver archivo](Conclusion1.md)  
-🔍 Reflexión sobre el proceso de aprendizaje y los logros alcanzados en las tres unidades.
 
 ---
 
