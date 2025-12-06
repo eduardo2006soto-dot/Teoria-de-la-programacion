@@ -11,4 +11,16 @@
 - ✅ **Revisión y adaptación:**  
   Todo lo generado con la IA fue **revisado y adaptado por mí**, asegurando que el proyecto refleje mi trabajo y cumpla correctamente con los objetivos planteados.
 
+  ---
+
+  # 🧠 Unidad 2 — Declaración de uso de IA
+  
+- Utilicé herramientas de inteligencia artificial para mejorar mi comprensión de los bucles y las estructuras condicionales en programación.
+
+- La IA me brindó explicaciones claras y ejemplos que facilitaron mi aprendizaje y reforzaron mi lógica de programación.
+
+- También me ayudó a mejorar la estética, organización y presentación de mis códigos y documentos.
+
+- Todo el contenido fue adaptado, aplicado y desarrollado por mí como estudiante, utilizando la IA únicamente como apoyo educativo.
+
 [🏠 Volver a la página principal](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/inderx.md)
