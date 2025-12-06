@@ -8,7 +8,19 @@
 
 </div>
 
+---
 
+<div align="center">
+
+## 📝 AA 2  
+
+<a href="https://drive.google.com/file/d/1a8q2R0vscraBcNMmGMLvivKy1681qZeM/view?usp=sharing">
+  <img src="https://img.shields.io/badge/Abrir%20AA%202-8A2BE2?style=for-the-badge&logo=google-drive&logoColor=white">
+</a>
+
+</div>
+
+---
 
 <div align="center">
 
