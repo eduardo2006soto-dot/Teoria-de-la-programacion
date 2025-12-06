@@ -13,13 +13,28 @@
 
 ## 🧩 Unidad 1 — Fundamentos de la Programación
 
-- [📘 Contenidos de la Unidad](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/unidad.md)
-- [✅ Tareas entregadas](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/tareas.md)
+<div align="center">
+
+## 📘 Contenidos de la Unidad  
+[Ver contenidos de la unidad](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/unidad.md)
+
+---
+
+## ✅ Tareas Entregadas  
+[Ver tareas entregadas](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/tareas.md)
+
+</div>
 
 ---
 
 ## ⚙️ Unidad 2 — Algoritmos y Estructuras
-🧮 Contenidos de la unidad 2 en construcción.
+<div align="center">
+
+## 📘 Contenidos de Unidad  
+[**Ir a los Contenidos de la Unidad**](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/contenidos2.md)
+
+</div>
+
 
 ---
 
