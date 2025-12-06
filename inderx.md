@@ -42,6 +42,8 @@
 
 <br><br>
 
+---
+
 ## ✅ Tareas Entregadas 2
 
 <a href="https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/tareas2.md">
