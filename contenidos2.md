@@ -97,6 +97,14 @@ me permite avanzar con más confianza hacia contenidos más complejos,
 demostrando que la práctica y la constancia realmente mejoran el
 entendimiento.
 
+<div align="center">
+
+### 🔙 Volver a la página principal  
+[**Ir al inicio del repositorio**](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/inderx.md)
+
+</div>
+
+
 
 
 
