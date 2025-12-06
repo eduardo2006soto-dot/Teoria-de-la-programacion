@@ -1,6 +1,6 @@
 <div align="center">
 
-## 📝 AA 1  
+## 📝 AA 1: Diferencias entre los tipos de estructuras condicionales
 
 <a href="https://www.canva.com/design/DAFwKFZD850/xhyyC_yVLbL7FR8KUv9tZg/edit">
   <img src="https://img.shields.io/badge/Abrir%20AA%201-8A2BE2?style=for-the-badge&logo=canva&logoColor=white">
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-## 📝 AA 2  
+## 📝 AA 2: Cuadro comparativo entre las estructuras repetitivas
 
 <a href="https://drive.google.com/file/d/1a8q2R0vscraBcNMmGMLvivKy1681qZeM/view?usp=sharing">
   <img src="https://img.shields.io/badge/Abrir%20AA%202-8A2BE2?style=for-the-badge&logo=google-drive&logoColor=white">
