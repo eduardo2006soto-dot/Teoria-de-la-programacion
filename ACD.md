@@ -15,7 +15,7 @@
     border-radius: 8px;
     font-size: 16px;
 ">
-Volver a Tareas 2
+Volver a Tareas 
 </a>
 
 </div>
