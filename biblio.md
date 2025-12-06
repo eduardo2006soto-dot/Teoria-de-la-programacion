@@ -5,5 +5,13 @@
 
 [3] L. A. Villalobos Fernández, Á. de la Ossa Osegueda, O. A. Rodríguez‑Villagra, y A. E. Vergara Heidke, “Resolución de diagramas de flujo y pseudocódigo por parte de estudiantes de Ciencias de la Computación de la Universidad de Costa Rica,” Revista Tecnología, Ciencia y Educación, no. 17, Sep.–Dec. 2020, pp. 129‑146. [En línea]. Disponible en: https://www.tecnologia-ciencia-educacion.com/index.php/TCE/article/view/491
 
+
+[1] “Bucles y condicionales,” IBM Docs. https://www.ibm.com/docs/es/product-master/12.0.0?topic=constructs-looping-conditionals
+
+[2] “Condicionales, bucles, variables y funciones,” Codelearn. https://codelearn.es/blog/condicionales-bucles-variables-y-funciones/ 
+
+[3] J. Álvarez Liébana, “Estructuras de control: bucles y estructuras condicionales,” Quarto Pub, https://javieralvarezliebana.quarto.pub/control-bucles-if-else/ 
+
+
 ---
 [🏠 Volver a la página principal](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/inderx.md)
