@@ -64,4 +64,40 @@ El objetivo del problema es solicitar al usuario un número entero N y mostrar e
 
 <img width="998" height="847" alt="image" src="https://github.com/user-attachments/assets/4fe124c3-bbbc-45c3-9e0b-cca44def5028" />
 
+# Ejercicio combinado con bucles y condiciones
+
+### 🖼️ Imagen 11: Bucles y condiciones
+
+<img width="1064" height="1018" alt="image" src="https://github.com/user-attachments/assets/c61184fd-d6d3-4b0f-b112-117de8d64506" />
+
+## 🌟 Principales dificultades en la aplicación de los contenidos
+
+Durante la práctica, una de las dificultades más notables fue comprender
+la estructura y el funcionamiento de los bucles.  
+Al inicio resultaba confuso identificar cuándo usar `for`, `while` o
+`do...while`, así como entender el orden en que se ejecutan sus
+instrucciones y condiciones.
+
+Esta falta de claridad provocó errores frecuentes en los programas,
+especialmente al plantear la condición de parada.  
+Con la práctica y la aplicación en ejercicios reales, fue posible
+fortalecer la comprensión y utilizar cada bucle de forma adecuada.
+
+## ✨ Reflexión crítica de los aprendizajes de la unidad
+
+Durante esta unidad logré reforzar de manera significativa mi comprensión
+sobre el uso de los bucles y su aplicación en la resolución de problemas
+de programación. Al inicio resultaban algo confusos, pero con la práctica
+constante pude dominar su funcionamiento, identificar sus diferencias y
+emplearlos correctamente según la situación.
+
+Me siento satisfecho con el progreso alcanzado, ya que ahora puedo
+estructurar algoritmos con mayor seguridad y claridad. Este aprendizaje
+me permite avanzar con más confianza hacia contenidos más complejos,
+demostrando que la práctica y la constancia realmente mejoran el
+entendimiento.
+
+
+
+
 
