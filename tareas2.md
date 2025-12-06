@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[🏠 **Volver al inicio del portafolio**](https://github.com/eduardo2006soto-dot/proyectomate/blob/main/intro.md)
+[🏠 **Volver al inicio del portafolio**]([https://github.com/eduardo2006soto-dot/proyectomate/blob/main/intro.md](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/inderx.md))
 
 </div>
 
