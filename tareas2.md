@@ -8,10 +8,14 @@
 
 <div align="center">
 
-### 🔙 Volver a la página principal  
-[**Ir al inicio del repositorio**](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/inderx.md)
+## 🔙 Volver a la página principal  
+
+<a href="https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/inderx.md">
+  <img src="https://img.shields.io/badge/Volver%20a%20la%20página%20principal-8A2BE2?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </div>
+
 
 
 
