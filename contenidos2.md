@@ -45,6 +45,10 @@ El objetivo del problema es solicitar al usuario un número entero N y mostrar e
 ### 🖼️ Imagen 9: Bucle for 
 <img width="934" height="876" alt="image" src="https://github.com/user-attachments/assets/4e958cc6-34b0-42af-b247-1395bd52607a" />
 
+# Diagrama de Flujo
+<img width="1019" height="681" alt="image" src="https://github.com/user-attachments/assets/3329c50f-8951-4ece-9697-79f0bdd13545" />
+
+
 # While
 
 🟢 Definición del while
@@ -58,6 +62,11 @@ El objetivo del problema es solicitar al usuario un número entero N y mostrar e
 ### 🖼️ Imagen 10: Bucle while.
 
 <img width="1102" height="879" alt="image" src="https://github.com/user-attachments/assets/f55640cd-3bed-4165-b375-0f88daaa049f" />
+
+# Diagrama de flujo
+<img width="834" height="699" alt="image" src="https://github.com/user-attachments/assets/caea402e-4ed4-4217-b506-35dea598c74a" />
+
+
 
 # Do..While
 
@@ -73,11 +82,19 @@ El objetivo del problema es solicitar al usuario un número entero N y mostrar e
 
 <img width="998" height="847" alt="image" src="https://github.com/user-attachments/assets/4fe124c3-bbbc-45c3-9e0b-cca44def5028" />
 
+# Diagrama de flujo
+<img width="726" height="685" alt="image" src="https://github.com/user-attachments/assets/1886d247-af2c-427f-a1be-30e1e596386d" />
+
+
 # Ejercicio combinado con bucles y condiciones
 
 ### 🖼️ Imagen 11: Bucles y condiciones
 
 <img width="1064" height="1018" alt="image" src="https://github.com/user-attachments/assets/c61184fd-d6d3-4b0f-b112-117de8d64506" />
+
+# Diagrama de flujo
+<img width="1594" height="2017" alt="image" src="https://github.com/user-attachments/assets/b6081984-f74f-4664-b297-eb0265fdab9e" />
+
 
 ## 🌟 Principales dificultades en la aplicación de los contenidos
 
