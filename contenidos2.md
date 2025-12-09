@@ -10,6 +10,11 @@ El ejercicio consiste en solicitar al usuario un número entero comprendido entr
 
 <img width="890" height="682" alt="image" src="https://github.com/user-attachments/assets/96521f2f-c148-4b75-9540-5248dc9a3906" />
 
+# Diagrama de flujo
+
+<img width="953" height="401" alt="image" src="https://github.com/user-attachments/assets/1d5169c3-c86a-4314-80e2-25cde2ec0e3b" />
+
+
 # Switch
 
 | Estructura  | Descripción                                                                                                                          |
@@ -21,6 +26,10 @@ El ejercicio consiste en solicitar al usuario un número entero comprendido entr
 ### 🖼️ Imagen 8: Ejercicio con el condicional switch.
 
 <img width="1112" height="887" alt="image" src="https://github.com/user-attachments/assets/e4acd837-b499-46ff-b354-60c1a01f50f7" />
+
+# Diagrama de flujo
+<img width="845" height="776" alt="image" src="https://github.com/user-attachments/assets/405eece3-6de5-42c9-998b-aae924db610a" />
+
 
 # For
 El objetivo del problema es solicitar al usuario un número entero N y mostrar en pantalla todos los números comprendidos entre 1 y N, en orden ascendente. Para resolverlo, se requiere utilizar estructuras repetitivas que permitan ejecutar una acción varias veces sin necesidad de escribir instrucciones repetidas. Este ejercicio permite comparar cómo funcionan los bucles for, while y do…while aplicando la misma tarea, demostrando sus similitudes y diferencias en la construcción de soluciones computacionales.
