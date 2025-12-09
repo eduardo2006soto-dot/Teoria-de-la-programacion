@@ -18,7 +18,6 @@
 <a href="https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/unidad.md">
   <img src="https://img.shields.io/badge/Ver%20Contenidos%20de%20la%20Unidad-1E90FF?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
 <br><br>
 
 ---
@@ -28,7 +27,6 @@
 <a href="https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/tareas.md">
   <img src="https://img.shields.io/badge/Ver%20Tareas%20Entregadas-4CAF50?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
 <br><br>
 
 ---
@@ -39,7 +37,6 @@
 <a href="https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/contenidos2.md">
   <img src="https://img.shields.io/badge/Ir%20a%20Contenidos%20Unidad%202-4169E1?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
 <br><br>
 
 ---
