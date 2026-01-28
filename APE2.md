@@ -14,7 +14,13 @@
 <div align="center">
 
 ## 📝 APE 2:  Implementación de funciones utilizando el paso de parámetros por valor y por referencia
+
+### 🖼️ imagen 12:
+
 <img width="1919" height="986" alt="image" src="https://github.com/user-attachments/assets/79538760-75e4-46b2-a78a-fba808502944" />
+
+### 🖼️ imagen 13:
+
 <img width="1919" height="961" alt="image" src="https://github.com/user-attachments/assets/60e89f14-b02c-4d13-9024-07443b75aaa9" />
 
 
