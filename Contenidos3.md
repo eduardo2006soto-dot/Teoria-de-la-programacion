@@ -44,9 +44,14 @@ Durante esta unidad aprendí la importancia de programar de forma ordenada y est
 También comprendí mejor el uso de arreglos, lo que me permitió manejar varios datos de forma más eficiente.
 Aunque al inicio fue complicado, estos aprendizajes me ayudaron a mejorar mi lógica de programación y a escribir código más organizado y funcional.
 
+<div align="center">
+  
 ## 🔙 Volver a la página principal  
 
+
 <a href="https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/inderx.md">
+
+  
   <img src="https://img.shields.io/badge/Volver%20a%20la%20página%20principal-8A2BE2?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
