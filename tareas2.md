@@ -3,7 +3,7 @@
 | Modalidad | Descripción |
 |:-----------:|:-------------|
 | 👨‍🏫 [**ACD**](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/ACD2.md)  | *Aprendizaje con el Docente* — Sesiones guiadas, explicación teórica y acompañamiento académico. |
-| 🧪 [**APE**](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/APE2.md)  | *Aprendizaje Práctico Experimental* — Actividades de laboratorio, simulaciones y desarrollo de ejercicios. |
+| 🧪 [**APE**](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/ape.md)  | *Aprendizaje Práctico Experimental* — Actividades de laboratorio, simulaciones y desarrollo de ejercicios. |
 | 📖 [**AA**](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/aa.md)    | *Aprendizaje Autónomo* — Estudio individual, investigaciones y elaboración de tareas personales. |
 
 <div align="center">
