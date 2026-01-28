@@ -57,7 +57,7 @@
 ## ✅ Tareas Entregadas 3
 
 <a href="https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/tareas3.md">
-  <img src="https://img.shields.io/badge/Volver%20a%20Tareas%202-2E8B57?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Volver%20a%20Tareas%203-3E8B57?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
