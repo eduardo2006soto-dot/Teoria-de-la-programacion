@@ -93,6 +93,9 @@ El objetivo del problema es solicitar al usuario un número entero N y mostrar e
 <img width="1064" height="1018" alt="image" src="https://github.com/user-attachments/assets/c61184fd-d6d3-4b0f-b112-117de8d64506" />
 
 # Diagrama de flujo
+
+### Imagen 12: Bucles y condiciones 
+
 <img width="1594" height="2017" alt="image" src="https://github.com/user-attachments/assets/b6081984-f74f-4664-b297-eb0265fdab9e" />
 
 
