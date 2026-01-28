@@ -23,4 +23,15 @@
 
 - Todo el contenido fue adaptado, aplicado y desarrollado por mí como estudiante, utilizando la IA únicamente como apoyo educativo.
 
+
+  # 🧠 Unidad 3 — Declaración de uso de IA
+
+- **✨ Claridad y organización de ideas:**
+  
+- La IA me ayudó a mejorar la claridad de las ideas, facilitando la redacción y la organización de la información de manera más ordenada y comprensible.
+
+- **✅ Revisión y adaptación:**
+  
+- Todo el contenido generado con apoyo de la inteligencia artificial fue revisado, analizado y adaptado por mí, garantizando que el trabajo final refleje mi aprendizaje y cumpla con los objetivos del proyecto.
+
 [🏠 Volver a la página principal](https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/inderx.md)
