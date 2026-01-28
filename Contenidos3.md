@@ -30,3 +30,17 @@ Los elementos se acceden mediante índices y pueden ser unidimensionales (vector
 
 <img width="683" height="419" alt="image" src="https://github.com/user-attachments/assets/39c4e326-6674-47dc-9867-5a08734de248" />
 
+------------------------------
+
+## 🌟 Principales dificultades en la aplicación de los contenidos
+
+Una de las principales dificultades que tuve fue entender bien la modularidad, ya que al inicio se me complicaba dividir el programa en funciones y saber qué hacía cada una.
+También tuve problemas al trabajar con arreglos, sobre todo al usar los índices correctamente y evitar errores.
+Además, me costó diferenciar el paso de parámetros por valor y por referencia, lo que a veces hacía que los datos no se modificaran como yo esperaba.
+
+## ✨ Reflexión crítica de los aprendizajes de la unidad
+
+Durante esta unidad aprendí la importancia de programar de forma ordenada y estructurada, aplicando la modularidad para dividir los programas en funciones y hacerlos más claros y fáciles de entender.
+También comprendí mejor el uso de arreglos, lo que me permitió manejar varios datos de forma más eficiente.
+Aunque al inicio fue complicado, estos aprendizajes me ayudaron a mejorar mi lógica de programación y a escribir código más organizado y funcional.
+
