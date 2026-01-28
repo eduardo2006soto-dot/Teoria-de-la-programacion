@@ -4,9 +4,14 @@
 ---
 
 ### 🏛️ **Universidad Nacional de Loja — Facultad de Energía, las Industrias y los Recursos Naturales No Renovables**
+<div align="center">
+  
 🎓 **Carrera:** Ingeniería en Ciencias de la Computación  
+  
 👩‍🏫 **Docente:** Ing. Lissette López  
+
 👨‍💻 **Estudiante:** Eduardo Soto  
+
 📅 **Año Lectivo:** 2025 – 2026  
 
 ---
