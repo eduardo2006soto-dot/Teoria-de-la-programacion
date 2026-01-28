@@ -61,7 +61,7 @@
   
 ## 🧠 Unidad 3 — Lógica y Desarrollo de Proyectos
 
-## 📘 Contenidos de Unidad 2
+## 📘 Contenidos de Unidad 3
 
 <a href="https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/Contenidos3.md">
   <img src="https://img.shields.io/badge/Ir%20a%20Contenidos%20Unidad%203-4169E1?style=for-the-badge&logo=github&logoColor=white">
