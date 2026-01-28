@@ -56,6 +56,8 @@
 
 ---
 
+<div align="center">
+  
 ## 🧠 Unidad 3 — Lógica y Desarrollo de Proyectos
 
 
@@ -69,11 +71,13 @@
 
 
 ---
+<div align="center">
 
 ## 🧾 Conclusión
 [Ver archivo](Conclusion1.md)  
 
 ---
+<div align="center">
 
 ## 📚 Bibliografía
 [Ver archivo](biblio.md) 
