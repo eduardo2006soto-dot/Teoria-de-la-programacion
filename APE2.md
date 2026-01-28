@@ -24,3 +24,12 @@
 <img width="1919" height="961" alt="image" src="https://github.com/user-attachments/assets/60e89f14-b02c-4d13-9024-07443b75aaa9" />
 
 
+## 🔙 Volver a Tareas  
+
+<a href="https://github.com/eduardo2006soto-dot/Teoria-de-la-programacion/blob/main/tareas2.md">
+  <img src="https://img.shields.io/badge/Volver%20a%20Tareas-8A2BE2?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+
