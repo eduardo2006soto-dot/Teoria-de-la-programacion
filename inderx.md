@@ -4,14 +4,12 @@
 ---
 
 ### 🏛️ **Universidad Nacional de Loja — Facultad de Energía, las Industrias y los Recursos Naturales No Renovables**
+
 <div align="center">
-  
+
 🎓 **Carrera:** Ingeniería en Ciencias de la Computación  
-  
 👩‍🏫 **Docente:** Ing. Lissette López  
-
 👨‍💻 **Estudiante:** Eduardo Soto  
-
 📅 **Año Lectivo:** 2025 – 2026  
 
 ---
@@ -58,7 +56,7 @@
 ---
 
 <div align="center">
-  
+
 ## 🧠 Unidad 3 — Lógica y Desarrollo de Proyectos
 
 ## 📘 Contenidos de Unidad 3
@@ -76,21 +74,24 @@
 
 </div>
 
-
 ---
+
 <div align="center">
 
-## 🧾 Conclusión
-[Ver archivo](Conclusion1.md)  
-
----
-<div align="center">
-
-## 📚 Bibliografía
-[Ver archivo](biblio.md) 
+## 🧾 Conclusión  
+[Ver archivo](Conclusion1.md)
 
 ---
 
-## 🤖 Declaración de uso de inteligencia artificial
+## 📚 Bibliografía  
+[Ver archivo](biblio.md)
+
+---
+
+## 🤖 Declaración de uso de inteligencia artificial  
 [Ver archivo](ia.md)  
+
 > Indica cómo se ha utilizado la **IA** en la elaboración de este proyecto.
+
+</div>
+
