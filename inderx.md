@@ -79,12 +79,18 @@
 <div align="center">
 
 ## 🧾 Conclusión  
-[Ver archivo](Conclusion1.md)
+[Ver archivo](Conclusion1.md)  
+
+> En esta sección se presentan las reflexiones finales del proyecto, destacando los aprendizajes adquiridos,  
+> las habilidades desarrolladas y la importancia de los fundamentos de la programación en la formación académica.
 
 ---
 
 ## 📚 Bibliografía  
-[Ver archivo](biblio.md)
+[Ver archivo](biblio.md)  
+
+> Aquí se recopilan las fuentes bibliográficas utilizadas para respaldar los conceptos teóricos y prácticos  
+> desarrollados en el proyecto, garantizando la validez académica y el correcto sustento de la información.
 
 ---
 
@@ -94,4 +100,5 @@
 > Indica cómo se ha utilizado la **IA** en la elaboración de este proyecto.
 
 </div>
+
 
